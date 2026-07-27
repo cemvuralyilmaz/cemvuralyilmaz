@@ -69,10 +69,12 @@ yanlış sıralar. Paket bunları çözer; klavye dizilimi de iOS Türkçe (Q) k
 
 ## Teknolojiler
 
-**Mobil** Flutter · Dart · iOS · Android · Riverpod · Provider/MVVM · Freezed · Clean Architecture
-**Backend & Bulut** Firebase (Firestore, Auth, Cloud Functions, App Check, Remote Config) · TypeScript/Node · REST API
-**Yayın & Araçlar** RevenueCat · AdMob · CI/CD (GitHub Actions, Codemagic) · Git · Unit/Widget test
-**Geçmiş** Java · Spring Boot · PostgreSQL · React.js · Next.js
+| | |
+|---|---|
+| **Mobil** | Flutter · Dart · iOS · Android · Riverpod · Provider/MVVM · Freezed · Clean Architecture |
+| **Backend & Bulut** | Firebase (Firestore, Auth, Cloud Functions, App Check, Remote Config) · TypeScript/Node · REST API |
+| **Yayın & Araçlar** | RevenueCat · AdMob · CI/CD (GitHub Actions, Codemagic) · Git · Unit/Widget test |
+| **Geçmiş** | Java · Spring Boot · PostgreSQL · React.js · Next.js |
 
 ---
 
