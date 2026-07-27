@@ -55,6 +55,18 @@ Günlük bulmaca uygulaması; abonelik öncelikli reklamsızlık modeli ve premi
 
 ---
 
+## Açık kaynak
+
+### 📦 [turkish_word_keyboard](https://github.com/cemvuralyilmaz/turkish_word_keyboard)
+Türkçe kelime oyunları için ekran klavyesi — ikiliya'nın Kelimelik oyunundan çıkarıldı.
+
+Türkçe'de `'istanbul'.toUpperCase()` yanlış sonuç verir (`ISTANBUL`), `['dut','çilek','cam'].sort()`
+yanlış sıralar. Paket bunları çözer; klavye dizilimi de iOS Türkçe (Q) klavyesiyle birebir aynıdır.
+
+`Flutter` `Dart` · 38 test · MIT
+
+---
+
 ## Teknolojiler
 
 **Mobil** Flutter · Dart · iOS · Android · Riverpod · Provider/MVVM · Freezed · Clean Architecture
