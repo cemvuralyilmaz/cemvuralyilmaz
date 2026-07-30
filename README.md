@@ -63,7 +63,7 @@ Türkçe kelime oyunları için ekran klavyesi — ikiliya'nın Kelimelik oyunun
 Türkçe'de `'istanbul'.toUpperCase()` yanlış sonuç verir (`ISTANBUL`), `['dut','çilek','cam'].sort()`
 yanlış sıralar. Paket bunları çözer; klavye dizilimi de iOS Türkçe (Q) klavyesiyle birebir aynıdır.
 
-`Flutter` `Dart` · 38 test · MIT
+`Flutter` `Dart` · 38 test · MIT · [pub.dev](https://pub.dev/packages/turkish_word_keyboard)
 
 ### 📦 [utf16_safe_text](https://github.com/cemvuralyilmaz/utf16_safe_text)
 UTF-16 güvenli string kırpma — ikiliya'dan çıkarıldı.
@@ -73,7 +73,7 @@ eşsiz bir surrogate kalır ve Flutter'ın metin motoru `string is not well-form
 adında emoji olan tek bir kullanıcı, o adı kırpan her ekranı düşürür. Paket kırpmayı güvenli hale
 getirir, bozuk gelen string'i onarır ve render öncesi doğrulama sağlar.
 
-`Dart` · bağımlılık yok · 31 test · MIT
+`Dart` · bağımlılık yok · 31 test · MIT · [pub.dev](https://pub.dev/packages/utf16_safe_text)
 
 ---
 
