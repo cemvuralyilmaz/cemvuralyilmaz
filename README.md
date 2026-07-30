@@ -65,6 +65,16 @@ yanlış sıralar. Paket bunları çözer; klavye dizilimi de iOS Türkçe (Q) k
 
 `Flutter` `Dart` · 38 test · MIT
 
+### 📦 [utf16_safe_text](https://github.com/cemvuralyilmaz/utf16_safe_text)
+UTF-16 güvenli string kırpma — ikiliya'dan çıkarıldı.
+
+Emoji, Dart'ta iki kod biriminden oluşur. Ham `substring` bu çiftin ortasından bölerse geriye
+eşsiz bir surrogate kalır ve Flutter'ın metin motoru `string is not well-formed UTF-16` ile çöker —
+adında emoji olan tek bir kullanıcı, o adı kırpan her ekranı düşürür. Paket kırpmayı güvenli hale
+getirir, bozuk gelen string'i onarır ve render öncesi doğrulama sağlar.
+
+`Dart` · bağımlılık yok · 31 test · MIT
+
 ---
 
 ## Teknolojiler
