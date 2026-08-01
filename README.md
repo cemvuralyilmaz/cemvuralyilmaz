@@ -90,6 +90,6 @@ getirir, bozuk gelen string'i onarır ve render öncesi doğrulama sağlar.
 
 ## İletişim
 
-[LinkedIn](https://www.linkedin.com/in/cemvuralyilmaz) · yilmazcemvural35@gmail.com
+[LinkedIn](https://www.linkedin.com/in/cemvuralyilmaz) · cemvuralyilmaz@gmail.com
 
 <sub>Yayındaki uygulamaların kaynak kodu, uygulama içi satın alma ve kullanıcı verisi içerdiği için özel repo'larda tutuluyor.</sub>
