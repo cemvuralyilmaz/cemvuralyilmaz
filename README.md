@@ -43,9 +43,8 @@ Kırklareli Üniversitesi GADOM stajı kapsamında dört haftada geliştirildi.
 
 ### 🧩 [Bulmaca Köşesi](https://bulmacakosesi.com) — günlük Türkçe bulmaca
 Günlük bulmaca uygulaması; abonelik öncelikli reklamsızlık modeli ve premium oyun arşivi.
-*App Store incelemesinde.*
 
-[bulmacakosesi.com](https://bulmacakosesi.com)
+[App Store](https://apps.apple.com/tr/app/id6792383170) · [bulmacakosesi.com](https://bulmacakosesi.com)
 
 - RevenueCat ile abonelik altyapısı (aylık + yıllık, ücretsiz deneme), reklam/abonelik geçiş mantığı
 - iOS ATT izin akışının doğru zamanlanması ile App Store 2.1 uyumu
@@ -90,6 +89,6 @@ getirir, bozuk gelen string'i onarır ve render öncesi doğrulama sağlar.
 
 ## İletişim
 
-[LinkedIn](https://www.linkedin.com/in/cemvuralyilmaz) · cemvuralyilmaz@gmail.com
+[cemvuralyilmaz.com](https://cemvuralyilmaz.com) · [LinkedIn](https://www.linkedin.com/in/cemvuralyilmaz) · cemvuralyilmaz@gmail.com
 
 <sub>Yayındaki uygulamaların kaynak kodu, uygulama içi satın alma ve kullanıcı verisi içerdiği için özel repo'larda tutuluyor.</sub>
